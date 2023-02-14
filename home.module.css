@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: lightpink
+}
+
+#nav{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 60px;
+    background-color: aqua;
+    font-size: larger;
+    font-weight: bolder;
+   
+}
+
+.home{
+    text-decoration: none;
+    background-color: aqua;
+}
+#myform{
+     display: flex;
+    justify-content: space-around;
+    align-items: center;
+} 
+#form{
+    width: 20%;
+    height: 200px;
+    margin-top: 10%;
+    border: 2px solid;
+    padding: 50px 25px;
+}
+
+#btn{
+    background-color: rgb(11, 11, 223);
+    color: whitesmoke;
+    border: none;
+    font-weight: bold;
+    padding: 4px 8px;
+    margin-left: 80px;
+}
+#box{
+    border: 2px solid;
+    width: 130px;
+    margin: 3px;
+}
+#Btn{
+    background-color: tomato;
+    color: whitesmoke;
+    border: none;
+    padding: 2px 4px;
+}

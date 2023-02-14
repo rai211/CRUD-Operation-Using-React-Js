@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "name": "Nikita ",
+      "salary": "50000",
+      "company": "ABCD",
+      "id": 2
+    },
+    {
+      "name": "Sarthak",
+      "salary": "30000",
+      "company": "SP Prvt ",
+      "id": 3
+    },
+    {
+      "name": "Karthik",
+      "salary": "20000",
+      "company": "KR Entrp",
+      "id": 4
+    },
+    {
+      "name": "Pranav",
+      "salary": "60000",
+      "company": "SRP Groups",
+      "id": 5
+    },
+    {
+      "name": "Smriti",
+      "salary": "45000",
+      "company": "NRA",
+      "id": 6
+    }
+  ]
+}
